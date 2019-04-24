@@ -1,0 +1,23 @@
+{
+  "name": "angular-ui-sortable",
+  "version": "0.12.12",
+  "description": "",
+  "main": "sortable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alorraib/ui-sortable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alorraib/ui-sortable/issues"
+  },
+  "homepage": "https://github.com/alorraib/ui-sortable#readme",
+  "dependencies": {
+    "angular": "~1.2.x",
+	"jquery-ui": ">= 1.9"
+  }
+}
